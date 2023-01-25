@@ -44,7 +44,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I'm a highly skilled individual with a passion for computer vision, deep learning, machine learning and software engineering. I am currently pursuing my masters in Data Science at Indiana University Bloomington, and am in my second year of the program. My strong background in these technical fields, along with my ongoing education in data science, positions me well for a career in the cutting-edge field of artificial intelligence and machine learning. My skills and knowledge make me an asset to any organization, and I am well-prepared to take on challenging projects and make significant contributions to the field."
         },
         {
           id: "second-p-about",
